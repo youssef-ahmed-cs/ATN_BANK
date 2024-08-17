@@ -1,0 +1,7 @@
+C:\Users\youssef Ahmed\Desktop\fundamentals c#\app\app\bin\Debug\app.exe.config
+C:\Users\youssef Ahmed\Desktop\fundamentals c#\app\app\bin\Debug\app.exe
+C:\Users\youssef Ahmed\Desktop\fundamentals c#\app\app\bin\Debug\app.pdb
+C:\Users\youssef Ahmed\Desktop\fundamentals c#\app\app\obj\Debug\app.csproj.AssemblyReference.cache
+C:\Users\youssef Ahmed\Desktop\fundamentals c#\app\app\obj\Debug\app.csproj.CoreCompileInputs.cache
+C:\Users\youssef Ahmed\Desktop\fundamentals c#\app\app\obj\Debug\app.exe
+C:\Users\youssef Ahmed\Desktop\fundamentals c#\app\app\obj\Debug\app.pdb
